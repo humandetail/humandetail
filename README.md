@@ -2,6 +2,8 @@
 
 I'm Detail.
 
+![Detail](https://img-squad-prod.humandetail.com/site/20221111S5JEcMtC.svg)
+
 - 🔭 I’m currently working on [Squad-blog](https://github.com/humandetail/squad-blog-frontend).
 - 🌱 I’m currently learning Vue3, Nuxt3, TypeScript, etc.
 
